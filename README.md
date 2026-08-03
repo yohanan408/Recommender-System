@@ -4,7 +4,7 @@ An end-to-end machine learning pipeline built for the **Movie Recommendation Hac
 ## Challenge Description
 In today’s technology-driven world, recommender systems are socially and economically critical for ensuring that individuals can make appropriate choices surrounding the content they engage with on a daily basis. One application where this is especially true surrounds movie content recommendations; where intelligent algorithms can help viewers find great titles from tens of thousands of options.
 
-## 📈 Performance Benchmark
+## Performance Benchmark
 
 | Model Configuration | Validation RMSE | Improvement vs. Baseline |
 | :--- | :---: | :---: |
