@@ -1,0 +1,5 @@
+"*.csv" 
+"data/" 
+"*.pth" 
+"*.pkl" 
+".ipynb_checkpoints/" 
