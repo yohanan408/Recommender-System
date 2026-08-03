@@ -1,5 +1,3 @@
-)](https://opensource.org)
-
 An end-to-end machine learning pipeline built for the **Movie Recommendation Hackathon 2026**. The architecture implements a two-stage hybrid stacking ensemble that pipes Collaborative Matrix Factorization (`SVD`) outputs and processed IMDb metadata into a Gradient Boosting framework (`LightGBM`). The pipeline is engineered to eliminate validation data leakage while scaling efficiently over **15.5+ million data rows**.
 
 ---
