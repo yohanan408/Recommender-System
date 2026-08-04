@@ -49,7 +49,7 @@ To resolve this, this pipeline utilizes a **5-Fold Cross-Validation loop** using
 
 ---
 
-## 🛠️ Step-by-Step Installation & Run Guide
+## Step-by-Step Installation & Run Guide
 
 ### 1. Clone the Repository
 ```bash
