@@ -31,7 +31,7 @@ To resolve this, this pipeline utilizes a **5-Fold Cross-Validation loop** using
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```filename
 ├── data/
